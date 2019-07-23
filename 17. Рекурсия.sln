@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17. Рекурсия", "17. Рекурсия\17. Рекурсия.vcxproj", "{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}.Debug|x64.ActiveCfg = Debug|x64
+		{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}.Debug|x64.Build.0 = Debug|x64
+		{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}.Debug|x86.Build.0 = Debug|Win32
+		{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}.Release|x64.ActiveCfg = Release|x64
+		{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}.Release|x64.Build.0 = Release|x64
+		{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}.Release|x86.ActiveCfg = Release|Win32
+		{231B09B0-0890-4FEE-BCF6-9A3D3B914AA8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4414882D-12DC-4275-A6ED-63BFC32EBCAA}
+	EndGlobalSection
+EndGlobal
